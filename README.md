@@ -1,3 +1,3 @@
-# Testprojekt; IMBA
+# Testprojekt; imba
 
-imba.io/
+https://imba.io/
